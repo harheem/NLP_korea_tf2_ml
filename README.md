@@ -5,3 +5,5 @@
 **전창욱님의 첫 번째 책 레파지토리 링크 : https://github.com/NLP-kr/tensorflow-ml-nlp**
 
 **전창욱님의 두 번째 책 레파지토리 링크 : https://github.com/NLP-kr/tensorflow-ml-nlp-tf2**
+
+<img width="559" alt="main" src="https://user-images.githubusercontent.com/49297157/96284498-9cbfb100-1018-11eb-9bfe-4eb91759aa39.png">
